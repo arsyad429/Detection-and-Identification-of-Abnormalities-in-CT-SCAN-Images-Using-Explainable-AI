@@ -62,4 +62,4 @@ This project applies **Grad-CAM (Gradient-weighted Class Activation Mapping)** t
 These visualizations help clinicians interpret model outputs and verify diagnostic relevance.
 
 Example visualization:
-![Grad-CAM Visualization](GRAD-CAM CTXNet.png)
+![Grad-CAM Visualization](GRAD-CAMCTXNet.png)
